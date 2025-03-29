@@ -1,0 +1,3 @@
+NOTICE EDIT THE PATHS OF IMAGES FOR BACKGROUND TO RUN THE SYSTEM
+
+search for the bg_image1 and bg_image2 config the paths
